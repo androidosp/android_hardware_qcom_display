@@ -23,6 +23,7 @@
 #include <cutils/log.h>
 #include <hardware/gralloc1.h>
 #include <hardware/gralloc.h>
+#include <cerrno>
 #ifdef __cplusplus
 #include <cinttypes>
 #endif
